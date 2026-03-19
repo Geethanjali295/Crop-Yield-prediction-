@@ -2,8 +2,9 @@ streamlit
 pandas
 numpy
 xgboost
-import pickle
-import xgboost as xgb
-import StandardScaler
-import LabelEncoder
-import OneHotEncoder
+pickle
+xgboost
+StandardScaler
+LabelEncoder
+OneHotEncoder
+setuptools
