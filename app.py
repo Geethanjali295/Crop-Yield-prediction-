@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import pickle
 import json
-
+import xgboost as xgb
 # --- 1. Load the trained model and preprocessors ---
 
 # Load the XGBoost model
