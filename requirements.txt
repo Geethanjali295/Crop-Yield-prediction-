@@ -8,3 +8,4 @@ scikit-learn==1.5.1
 xgboost==2.0.0
 streamlit==1.35.0
 pyngrok==7.1.0
+setuptools
